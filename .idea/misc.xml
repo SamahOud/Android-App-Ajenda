@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/blue_shape.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/button_style.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/button_style_2.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/button_style_3.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/category.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/color_selected_shape.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/copyright.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/copyright_focused.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/custom_copypassword_icon.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/custom_rectangle.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/custom_rectangle_2.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/date_style.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/date_style2.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/details.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/filter_list.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/filter_selected_shape.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/filter_shape.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/green_shape.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/ic_back.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/ic_location.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/ic_notifications.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/ic_priority.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/ic_save.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/repeat.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/round_category.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/round_home.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/round_menu.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/round_note.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/round_search.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/round_task.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/style_card.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable-v24/time_style.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable/custom_button.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable/custom_input.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable/custom_lock_icon.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable/custom_username_icon.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable/delete.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable/done.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable/edit.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable/ic_launcher_background.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable/lock.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable/lock_focused.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable/username.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/drawable/username_focused.xml" value="0.284375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/layout/activity_category.xml" value="0.25" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/layout/activity_category_two.xml" value="0.259375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/layout/activity_create_task.xml" value="0.34368530020703936" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/layout/activity_done_page.xml" value="0.25" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/layout/activity_home_page.xml" value="0.33" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/layout/activity_item_category.xml" value="0.259375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/layout/activity_list_view_tasks.xml" value="0.33" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/layout/activity_note.xml" value="0.25" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/layout/activity_page_details.xml" value="0.25" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/layout/activity_password.xml" value="0.33" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/layout/activity_reset.xml" value="0.25" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/layout/activity_sign_in.xml" value="0.259375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/layout/activity_trash_page.xml" value="0.25" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/layout/activity_update_task.xml" value="0.33" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/layout/custom_toast.xml" value="0.5" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/layout/dialog_category.xml" value="0.5" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/layout/dialog_note.xml" value="0.25" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/layout/note_cell.xml" value="0.259375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/layout/note_cell_two.xml" value="0.5" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/layout/task_cell.xml" value="0.25" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/layout/toolbar.xml" value="0.25" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/menu/list_menu.xml" value="0.259375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/menu/menu_bottom.xml" value="0.259375" />
+        <entry key="..\:/Users/Samah/AndroidStudioProjects/Ajenda_APP/app/src/main/res/menu/menu_date.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

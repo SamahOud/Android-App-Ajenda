@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ajenda</string>
+
+    <!--  LogIn  -->
+    <string name="title_hello"> اهلا بك</string>
+    <string name="title_login"> تسجيل الدخول إلى حسابك</string>
+    <string name="user_name"> اسم االمستخدم</string>
+    <string name="password"> كلمه السر</string>
+    <string name="btn_login"> تسجيل دخول</string>
+    <string name="txt_to_sign_up"> ليس لديك حساب بعد؟</string>
+    <string name="click_to_sign_up"> اشتراك</string>
+    <string name="click_forgot_password"> هل نسيت كلمة السر</string>
+
+    <!--  SignUp  -->
+    <string name="title_register">اشتراك</string>
+    <string name="title_sign_in">انشاء حساب جديد</string>
+    <string name="verify_password">اكد كلمة المرور</string>
+    <string name="btn_signup">اشتراك</string>
+    <string name="txt_to_log_in">لديك حساب بالفعل؟</string>
+    <string name="click_to_log_in">تسجيل دخول</string>
+
+    <!--  Forgot Password  -->
+    <string name="title_forgot_password">نسيت \n كلمة المرور</string>
+    <string name="enter_your_name">أدخل أسمك</string>
+    <string name="btn_reset_password">إعادة تعيين كلمة المرور</string>
+
+    <!--  Reseat Password  -->
+    <string name="title_reset_password">إعادة تعيين \n كلمة المرور</string>
+    <string name="btn_confirm">تاكيد</string>
+
+    <!--  Welcome Home Page  -->
+    <string name="title_welcome_to_ajenda">مرحبا بك في تطبيق اجندة</string>
+    <string name="ajenda_manager_app">ادارة اجندة</string>
+    <string name="tasks">مهام</string>
+    <string name="notes">ملاحظات</string>
+    <string name="categories">فئات</string>
+    <string name="trash">نفاية</string>
+    <string name="name">اسم</string>
+    <string name="done">تم</string>
+    <string name="create_task">إنشاء مهمة</string>
+
+    <!--  Page Add New Task >> Tags -->
+    <string name="title_add_new_task">أضف مهمة جديدة</string>
+    <string name="tag_meeting">لقاء</string>
+    <string name="tag_shopping">تسوق</string>
+    <string name="tag_medical">طبي</string>
+    <string name="tag_works">عمل</string>
+    <string name="tag_watch_list">قائمة المشاهدة</string>
+    <string name="tag_important">أهمية</string>
+    <string name="tag_home_work">واجب منزلي</string>
+    <string name="tag_school">مدرسة</string>
+    <string name="tag_music">موسيقى</string>
+    <string name="tag_todo_list">عمل قائمة</string>
+    <string name="tag_fitness">لياقه بدنيه</string>
+    <string name="tag_personal">شخصي</string>
+    <string name="txt_pick_number">1-منخفض ، 2-متوسط ، 3-مرتفع</string>
+    <string name="txt_starts">يبدأ</string>
+    <string name="txt_ends">ينتهي</string>
+    <string name="txt_date">تاريخ</string>
+    <string name="put_start_date">00.00.2021</string>
+    <string name="put_end_time">00:00</string>
+    <string name="put_add_priority">اهمية</string>
+    <string name="put_add_location">موقع</string>
+    <string name="put_add_notification">إشعار</string>
+    <string name="put_add_description">وصف</string>
+
+    <!--  Page Task -->
+    <string name="title_all_tasks">كل المهام</string>
+    <string name="low_priority">أهيمة منخفضة</string>
+    <string name="medium_priority">أهيمة متوسطة</string>
+    <string name="high_priority">أهيمة قسوى</string>
+
+    <string name="task_priority_low">منخفضة</string>
+    <string name="task_priority_middle">متوسطة</string>
+    <string name="task_priority_high">أهيمة قسوى</string>
+
+    <!--  Page Detail -->
+    <string name="title_page_details">تفاصيل الصفحة</string>
+    <string name="title_update_task">تحديث المهمة</string>
+    <string name="title_search_by_category">البحث حسب الفئة</string>
+    <string name="deleted">تم الحذف</string>
+    <string name="nothing_selected">لا شيء محدد</string>
+    <string name="are_you_sure_you_want_to_delete_it">هل تريد بالتأكيد حذفه؟ \n لن يظهر هذا في المهملات !!</string>
+    <string name="ok">نعم</string>
+    <string name="cancel">الغاء</string>
+    <string name="completed_the_task">اكتملت المهمة!</string>
+    <string name="are_you_sure_you_want_to_mark_this_task_as_completed">هل أنت متأكد أنك تريد وضع علامة على هذه المهمة كمكتملة؟</string>
+
+
+    <!--  Dialog Note -->
+    <string name="enter_text">أدخل نص</string>
+    <string name="enter_title">أدخل عنوان</string>
+    <string name="btn_submit">ادخل</string>
+
+    <!--  Note Cell -->
+    <string name="date">تاريخ</string>
+    <string name="note_name">اسم الملاحظة</string>
+    <string name="note_detail">تفاصيل الملاحظة</string>
+
+    <!--  Task Cell -->
+    <string name="put_title">عنوان</string>
+    <string name="dateTime_0">00.00.2021</string>
+    <string name="end_time_0">00:00</string>
+    <string name="start_time_0">00:00</string>
+    <string name="category">فئة </string>
+    <string name="location">موقع</string>
+
+    <!--  Page Notes -->
+    <string name="my_notes">ملاحظاتي</string>
+    <string name="are_you_sure_to_delete">هل أنت متأكد من حذف ذلك؟</string>
+    <string name="confirm">تأكيد</string>
+
+    <!--  Page Done -->
+    <string name="all_done_tasks">جميع المهام المنجزة</string>
+
+    <!--  Page Trash -->
+    <string name="all_archive">جميع المحفوظات</string>
+
+    <!--  Database Name and Password  -->
+    <string name="please_fill_the_empty_fields">الرجاء إدخال كافة الحقول</string>
+    <string name="sign_in_successful">تم تسجيل الدخول بنجاح</string>
+    <string name="invalid_credential">اسم غير متوفر</string>
+    <string name="user_does_not_exists">المستخدم غير موجود</string>
+    <string name="password_not_updated">لم يتم تحديث كلمة المرور</string>
+    <string name="password_updated_successfully">تم تحديث كلمة السر بنجاح</string>
+    <string name="password_not_matching">كلمة السر غير متطابقة</string>
+    <string name="user_already_exists_please_try_another_username">المستخدم موجود بالفعل! الرجاء محاولة اسم مستخدم آخر</string>
+    <string name="registration_failed">فشل في التسجيل</string>
+    <string name="registered_successfully">تم الاشتراك بنجاح</string>
+
+    <!--  Page Menu -->
+    <string name="edit">تعديل</string>
+    <string name="delete">حذف</string>
+    <string name="home">الصفحة الرئيسية</string>
+
+    <!--  Page Update -->
+    <string name="add">اضف</string>
+    <string name="undo">لا تضيف</string>
+    <string name="choose_an_action">اختار إجراء</string>
+    <string name="date_is_empty">التاريخ فارغ</string>
+    <string name="time_is_empty">الوقت فارغ</string>
+    <string name="message_cant_be_empty">لا يمكن أن تكون الرسالة فارغة!</string>
+    <string name="saving_your_details">حفظ التفاصيل الخاصة بك</string>
+    <string name="are_you_sure_to_save_all_your_information">هل أنت متأكد من حفظ جميع المعلومات الخاصة بك؟</string>
+    <string name="your_details_are_not_saved">لم يتم حفظ التفاصيل الخاصة بك!</string>
+    <string name="your_details_are_saved">لقد تم حفظ التفاصيل الخاصة بك.</string>
+    <string name="your_details_are_update_and_saved">تم تحديث التفاصيل الخاصة بك وحفظها.</string>
+    <string name="your_details_are_deleted">حذف بنجاح</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="items_selected">العناصر المحددة</string>
+    <string name="this_date">تاريخ اليوم</string>
+    <string name="more">أكثر</string>
+    <string name="btn_location">احصل عالموقع</string>
+    <string name="priority">اولوية</string>
+    <string name="details">تفاصيل</string>
+
+</resources>

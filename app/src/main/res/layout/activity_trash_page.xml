@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/button_style_2"
+    tools:context=".TrashPageActivity">
+
+    <include layout="@layout/toolbar"/>
+
+    <RelativeLayout
+        android:id="@+id/topArea"
+        android:layout_width="match_parent"
+        android:layout_height="110dp">
+
+        <ImageButton
+            android:id="@+id/doneB"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="65dp"
+            android:background="@drawable/history_img"
+            android:padding="8dp" />
+
+        <TextView
+            android:id="@+id/textNote"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="65dp"
+            android:layout_toEndOf="@+id/doneB"
+            android:text="@string/all_archive"
+            android:textColor="@android:color/white"
+            android:textSize="35sp"
+            android:textStyle="italic|bold" />
+
+    </RelativeLayout>
+
+    <com.baoyz.swipemenulistview.SwipeMenuListView
+        android:id="@+id/listViewItem"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_above="@+id/bottomNav"
+        android:layout_below="@+id/topArea"
+        android:layout_marginBottom="0dp"
+        tools:listitem="@layout/task_cell">
+
+    </com.baoyz.swipemenulistview.SwipeMenuListView>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNav"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/green_2"
+        app:fabCradleRoundedCornerRadius="50dp"
+        app:itemTextColor="#03303F"
+        app:menu="@menu/menu_bottom" />
+
+</RelativeLayout>

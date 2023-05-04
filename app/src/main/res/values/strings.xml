@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">Ajenda</string>
+
+    <!--  LogIn  -->
+    <string name="title_hello">Hello</string>
+    <string name="title_login">Log In to your account</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="btn_login">Log In</string>
+    <string name="txt_to_sign_up">Don\'t you have an account yet?</string>
+    <string name="click_to_sign_up">Sign Up</string>
+    <string name="click_forgot_password">Forgot Password</string>
+
+    <!--  SignUp  -->
+    <string name="title_register">Register</string>
+    <string name="title_sign_in">Create a new account</string>
+    <string name="verify_password">Verify Password</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="txt_to_log_in">Already have an account yet?</string>
+    <string name="click_to_log_in">Log In</string>
+
+    <!--  Forgot Password  -->
+    <string name="title_forgot_password">Forgot \nPassword</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="btn_reset_password">Reset Password</string>
+
+    <!--  Reseat Password  -->
+    <string name="title_reset_password">Reset \nPassword</string>
+    <string name="btn_confirm">Confirm</string>
+
+    <!--  Welcome Home Page  -->
+    <string name="title_welcome_to_ajenda">Welcome To Ajenda</string>
+    <string name="ajenda_manager_app">Ajenda Manager App</string>
+    <string name="tasks">Tasks</string>
+    <string name="notes">Notes</string>
+    <string name="categories">Categories</string>
+    <string name="trash">Trash</string>
+    <string name="name">Name</string>
+    <string name="done">Done</string>
+    <string name="create_task">Create Task</string>
+
+    <!--  Page Add New Task >> Tags -->
+    <string name="title_add_new_task">ADD NEW TASK</string>
+    <string name="tag_meeting">Meeting</string>
+    <string name="tag_shopping">Shopping</string>
+    <string name="tag_medical">Medical</string>
+    <string name="tag_works">Works</string>
+    <string name="tag_watch_list">Watch List</string>
+    <string name="tag_important">Important</string>
+    <string name="tag_home_work">Home Work</string>
+    <string name="tag_school">School</string>
+    <string name="tag_music">Music</string>
+    <string name="tag_todo_list">To-Do List</string>
+    <string name="tag_fitness">Fitness</string>
+    <string name="tag_personal">Personal</string>
+    <string name="txt_pick_number">1-Low, 2-Medium, 3-High</string>
+    <string name="txt_starts">Starts</string>
+    <string name="txt_ends">Ends</string>
+    <string name="txt_date">Date</string>
+    <string name="put_start_date">00.00.2021</string>
+    <string name="put_end_time">09:00</string>
+    <string name="put_add_priority">Add priority</string>
+    <string name="put_add_location">Add location</string>
+    <string name="put_add_notification">Add notification</string>
+    <string name="put_add_description">Add description</string>
+
+    <!--  Page Task -->
+    <string name="title_all_tasks">All Tasks</string>
+    <string name="low_priority">Low Priority</string>
+    <string name="medium_priority">Medium Priority</string>
+    <string name="high_priority">High Priority</string>
+
+    <string name="task_priority_low">Low</string>
+    <string name="task_priority_middle">Medium</string>
+    <string name="task_priority_high">High</string>
+
+    <!--  Page Detail -->
+    <string name="title_page_details">Page Details</string>
+    <string name="title_update_task">Update Task</string>
+    <string name="title_search_by_category">Search By Category</string>
+    <string name="deleted">Deleted</string>
+    <string name="nothing_selected">Nothing selected</string>
+    <string name="are_you_sure_you_want_to_delete_it">Are you sure you want to delete it?\nThis will not show in Trash!!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="completed_the_task">Completed the task!</string>
+    <string name="are_you_sure_you_want_to_mark_this_task_as_completed">Are you sure you want to mark this task as completed?</string>
+
+    <!--  Dialog Note -->
+    <string name="enter_text">Enter Text</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="btn_submit">Submit</string>
+
+    <!--  Note Cell -->
+    <string name="date">date</string>
+    <string name="note_name">Note Name</string>
+    <string name="note_detail">Note Detail</string>
+
+    <!--  Task Cell -->
+    <string name="put_title">Title</string>
+    <string name="dateTime_0">00.00.2021</string>
+    <string name="end_time_0">00:00</string>
+    <string name="start_time_0">00:00</string>
+    <string name="category">Category </string>
+    <string name="location">Location</string>
+
+    <!--  Page Notes -->
+    <string name="my_notes">My Notes</string>
+
+    <!--  Page Done -->
+    <string name="all_done_tasks">All Done Tasks</string>
+    <string name="are_you_sure_to_delete">Are you sure to delete it?</string>
+    <string name="confirm">Confirm</string>
+
+    <!--  Page Trash -->
+    <string name="all_archive">All Archive</string>
+
+    <!--  Database Name and Password  -->
+    <string name="please_fill_the_empty_fields">Please fill the empty fields</string>
+    <string name="sign_in_successful">Sign in successful</string>
+    <string name="invalid_credential">Invalid Credential</string>
+    <string name="user_does_not_exists">User does not exists</string>
+    <string name="password_not_matching">Password Not Matching</string>
+    <string name="password_not_updated">Password Not Updated</string>
+    <string name="password_updated_successfully">Password Updated Successfully</string>
+    <string name="user_already_exists_please_try_another_username">The user already exists! Please try another username</string>
+    <string name="registration_failed">Registration failed</string>
+    <string name="registered_successfully">Registered successfully</string>
+
+    <!--  Page Menu -->
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="home">Home</string>
+
+    <!--  Page Update -->
+    <string name="add">Add</string>
+    <string name="undo">Undo</string>
+    <string name="choose_an_action">Choose an action</string>
+    <string name="date_is_empty">Date is empty</string>
+    <string name="time_is_empty">Time is empty</string>
+    <string name="message_cant_be_empty">Message can\'t be empty!</string>
+    <string name="saving_your_details">Saving your Details</string>
+    <string name="are_you_sure_to_save_all_your_information">are you sure to save all your information?</string>
+    <string name="your_details_are_not_saved">Your details are not saved!</string>
+    <string name="your_details_are_saved">Your details are saved.</string>
+    <string name="your_details_are_update_and_saved">Your details are update and saved.</string>
+    <string name="your_details_are_deleted">Deleted successfully</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="items_selected">Items Selected</string>
+    <string name="this_date">This Date</string>
+    <string name="more">More</string>
+    <string name="btn_location">Get Location</string>
+    <string name="priority">Priority</string>
+    <string name="details">Details</string>
+
+</resources>

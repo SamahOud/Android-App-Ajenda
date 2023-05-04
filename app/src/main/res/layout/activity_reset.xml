@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/green_style_new2"
+    tools:context=".ResetActivity">
+
+    <include layout="@layout/toolbar"/>
+
+    <TextView
+        android:id="@+id/ResetPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:layout_marginEnd="25dp"        android:layout_marginTop="55dp"
+        android:text="@string/title_reset_password"
+        android:textColor="@color/white"
+        android:textSize="50sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/username_resetText"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/ResetPassword"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginEnd="80dp"
+        android:gravity="center"
+        android:textColor="#4D5051"
+        android:textSize="22sp"
+        android:textStyle="bold|italic" />
+
+    <EditText
+        android:id="@+id/password_reset"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/username_resetText"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="80dp"
+        android:background="@drawable/custom_input"
+        android:drawableEnd="@drawable/custom_lock_icon"
+        android:gravity="start|center_vertical"
+        android:hint="@string/password"
+        android:paddingStart="15dp"
+        android:paddingEnd="10dp"
+        android:textColor="#4D5051"
+        android:textColorHint="#8A8E90"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/repassword_reset"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/password_reset"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="80dp"
+        android:background="@drawable/custom_input"
+        android:drawableEnd="@drawable/custom_copypassword_icon"
+        android:gravity="start|center_vertical"
+        android:hint="@string/verify_password"
+        android:paddingStart="15dp"
+        android:paddingEnd="10dp"
+        android:textColor="#4D5051"
+        android:textColorHint="#8A8E90"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnConfirm"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/repassword_reset"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="100dp"
+        android:background="@drawable/custom_button"
+        android:text="@string/btn_confirm"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold|italic" />
+
+</RelativeLayout>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ajenda</string>
+
+    <!--  LogIn  -->
+    <string name="title_hello">שלום</string>
+    <string name="title_login">התחבר לחשבונך</string>
+    <string name="user_name">שם משתמש</string>
+    <string name="password">סיסמה</string>
+    <string name="btn_login">התחברות</string>
+    <string name="txt_to_sign_up">אין לך עדיין חשבון?</string>
+    <string name="click_to_sign_up">הירשם</string>
+    <string name="click_forgot_password">שכחת ססמא</string>
+
+    <!--  SignUp  -->
+    <string name="title_register">הירשם</string>
+    <string name="title_sign_in">צור חשבון חדש</string>
+    <string name="verify_password">אמת את הסיסמה</string>
+    <string name="btn_signup">הירשם</string>
+    <string name="txt_to_log_in">כבר יש לך חשבון?</string>
+    <string name="click_to_log_in">התחברות</string>
+
+    <!--  Forgot Password  -->
+    <string name="title_forgot_password">שכחת את \nהסיסמה</string>
+    <string name="enter_your_name">הזן את שמך</string>
+    <string name="btn_reset_password">לאפס את הסיסמה</string>
+
+    <!--  Reseat Password  -->
+    <string name="title_reset_password">אפס \nסיסמה</string>
+    <string name="btn_confirm">אישור</string>
+
+    <!--  Welcome Home Page  -->
+    <string name="title_welcome_to_ajenda">ברוכים הבאים לאג\'נדה</string>
+    <string name="ajenda_manager_app">ניהול קבצי אג\'נדה</string>
+    <string name="tasks">משימות</string>
+    <string name="notes">הערות</string>
+    <string name="categories">קטגוריות</string>
+    <string name="trash">אשפָה</string>
+    <string name="name">שֵם</string>
+    <string name="done">בוצע</string>
+    <string name="create_task">צור משימה</string>
+
+    <!--  Page Add New Task >> Tags -->
+    <string name="title_add_new_task">הוסף משימה חדשה</string>
+    <string name="tag_meeting">פְּגִישָׁה</string>
+    <string name="tag_shopping">קניות</string>
+    <string name="tag_medical">רְפוּאִי</string>
+    <string name="tag_works">עבודה</string>
+    <string name="tag_watch_list">רשימת מעקב</string>
+    <string name="tag_important">חָשׁוּב</string>
+    <string name="tag_home_work">שיעורי בית</string>
+    <string name="tag_school">בית ספר</string>
+    <string name="tag_music">מוּסִיקָה</string>
+    <string name="tag_todo_list">סדר יום</string>
+    <string name="tag_fitness">כושר</string>
+    <string name="tag_personal">אישי</string>
+    <string name="txt_pick_number">1-נמוך, 2-בינוני, 3-גבוה</string>
+    <string name="txt_starts">התחל</string>
+    <string name="txt_ends">סיום</string>
+    <string name="txt_date">תַאֲרִיך</string>
+    <string name="put_start_date">00.00.2021</string>
+    <string name="put_end_time">00:00</string>
+    <string name="put_add_priority">עדיפות</string>
+    <string name="put_add_location">מיקום</string>
+    <string name="put_add_notification">הודעה</string>
+    <string name="put_add_description">תיאור</string>
+
+    <!--  Page Task -->
+    <string name="title_all_tasks">כל המשימות</string>
+    <string name="low_priority">עדיפות נמוכה</string>
+    <string name="medium_priority">עדיפות בינונית</string>
+    <string name="high_priority">עדיפות גבוהה</string>
+
+    <string name="task_priority_low">נמוכה</string>
+    <string name="task_priority_middle">בינונית</string>
+    <string name="task_priority_high">גבוהה</string>
+
+    <!--  Page Detail -->
+    <string name="title_page_details">פרטי העמוד</string>
+    <string name="title_update_task">עדכון משימה</string>
+    <string name="title_search_by_category">חפש לפי קטגוריה</string>
+    <string name="deleted">נמחק</string>
+    <string name="nothing_selected">שום דבר לא נבחר</string>
+    <string name="are_you_sure_you_want_to_delete_it">האם אתה בטוח שברצונך למחוק אותו?\nזה לא יוצג באשפה!!</string>
+    <string name="ok">בסדר</string>
+    <string name="cancel">ביטול</string>
+    <string name="completed_the_task">השלימו את המשימה!</string>
+    <string name="are_you_sure_you_want_to_mark_this_task_as_completed">האם אתה בטוח שברצונך לסמן משימה זו כמושלמה?</string>
+
+
+    <!--  Dialog Note -->
+    <string name="enter_text">הזן טקסט</string>
+    <string name="enter_title">הזן כותרת</string>
+    <string name="btn_submit">הזן</string>
+
+    <!--  Note Cell -->
+    <string name="date">תַאֲרִיך</string>
+    <string name="note_name">שם הערה</string>
+    <string name="note_detail">פירוט הערות</string>
+
+    <!--  Task Cell -->
+    <string name="put_title">כותרת</string>
+    <string name="dateTime_0">00.00.2021</string>
+    <string name="end_time_0">00:00</string>
+    <string name="start_time_0">00:00</string>
+    <string name="category">קטגוריה</string>
+    <string name="location">מקום</string>
+
+    <!--  Page Notes -->
+    <string name="my_notes">ההערות שלי</string>
+    <string name="are_you_sure_to_delete">האם אתה בטוח שתמחק אותו?</string>
+    <string name="confirm">לְאַשֵׁר</string>
+
+    <!--  Page Done -->
+    <string name="all_done_tasks">כל המשימות שנעשו</string>
+
+    <!--  Page Trash -->
+    <string name="all_archive">ארכיון</string>
+
+    <!--  Database Name and Password  -->
+    <string name="please_fill_the_empty_fields">נא להזין את כל השדות</string>
+    <string name="sign_in_successful">כניסה מוצלחת</string>
+    <string name="invalid_credential">שם לא חוקי</string>
+    <string name="user_does_not_exists">משתמש לא קיים</string>
+    <string name="password_not_matching">הסיסמה לא תואמת</string>
+    <string name="password_not_updated">הסיסמה לא מעודכנת</string>
+    <string name="password_updated_successfully">הסיסמא עודכנה בהצלחה</string>
+    <string name="user_already_exists_please_try_another_username">המשתמש כבר קיים! אנא נסה שם משתמש אחר</string>
+    <string name="registration_failed">הרשמה נכשלה</string>
+    <string name="registered_successfully">נרשם בהצלחה</string>
+
+    <!--  Page Menu -->
+    <string name="edit">עריכה</string>
+    <string name="delete">מחיקה</string>
+    <string name="home">בית</string>
+
+    <!--  Page Update -->
+    <string name="add">הוסיף</string>
+    <string name="undo">לבטל</string>
+    <string name="choose_an_action">בחר פעולה</string>
+    <string name="date_is_empty">התאריך ריק</string>
+    <string name="time_is_empty">הזמן ריק</string>
+    <string name="message_cant_be_empty">ההודעה לא יכולה להיות ריקה!</string>
+    <string name="saving_your_details">שומר את הפרטים שלך</string>
+    <string name="are_you_sure_to_save_all_your_information">האם אתה בטוח שתשמור את כל המידע שלך?</string>
+    <string name="your_details_are_not_saved">הפרטים שלך לא נשמרים!</string>
+    <string name="your_details_are_saved">הפרטים שלך נשמרים.</string>
+    <string name="your_details_are_update_and_saved">הפרטים שלך מעודכנים ונשמרים.</string>
+    <string name="your_details_are_deleted">נמחק בהצלחה</string>
+    <string name="yes">כן</string>
+    <string name="no">לא</string>
+    <string name="items_selected">פריטים שנבחרו</string>
+    <string name="this_date">תאריך היום</string>
+    <string name="more">יותר</string>
+    <string name="btn_location">מיקום</string>
+    <string name="priority">עדיפות</string>
+    <string name="details">פירוט</string>
+
+</resources>
